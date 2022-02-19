@@ -1,3 +1,3 @@
-# PHP_function_lib
+# PHP_function_library
 
 Where I keep my PHP functions
